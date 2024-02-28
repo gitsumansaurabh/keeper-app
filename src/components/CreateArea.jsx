@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import AddIcon from "@mui/icons-material/Add";
-import ZoomInIcon from "@mui/icons-material/ZoomIn";
 import { Fab, Zoom } from "@mui/material";
 
 function CreateArea(props) {
